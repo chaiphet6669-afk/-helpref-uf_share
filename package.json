@@ -55,7 +55,7 @@
     "azure-search-client": "3.1.5",
     "bcryptjs-then": "1.0.1",
     "bluebird": "3.7.2",
-    "body-parser": "1.20.1",
+    "body-parser": "1.20.6",
     "chalk": "4.1.0",
     "cheerio": "1.0.0-rc.5",
     "chokidar": "3.5.3",
