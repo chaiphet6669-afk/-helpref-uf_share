@@ -1,4 +1,4 @@
-<div align="center">
+<dir><div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://static.requarks.io/logo/wikijs-full-darktheme.svg">
@@ -528,4 +528,4 @@ This project exists thanks to all the people who contribute. [[Contribute]](http
 [ngrok](https://ngrok.com) for providing access to their great HTTP tunneling services.
 
 ![Porkbun](https://static.requarks.io/logo/porkbun.png)  
-[Porkbun](https://www.porkbun.com) for providing domain registration services.
+[Porkbun](https://www.porkbun.com) for providing domain registration services.</dir>
