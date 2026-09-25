@@ -11428,12 +11428,10 @@ ignore@^5.1.4:
   resolved "https://registry.yarnpkg.com/ignore/-/ignore-5.1.6.tgz#643194ad4bf2712f37852e386b6998eff0db2106"
   integrity sha512-cgXgkypZBcCnOgSihyeqbo6gjIaIyDqPQB7Ra4vhE9m6kigdGoQDMHjviFhRZo3IMlRy6yElosoviMs5YxZXUA==
 
-image-size@0.9.2:
-  version "0.9.2"
-  resolved "https://registry.yarnpkg.com/image-size/-/image-size-0.9.2.tgz#04a227e1a60c290dc4b66b27bb811d8e9a7c4d80"
-  integrity sha512-spzCX3sjQjIk19U+UqpGYNgoaJTOJ7yTQ/9XtvVjXbjNNzwH2fP8NeMKdGbh867rK+Ngy5IVYkcsij2udJuDLw==
-  dependencies:
-    queue "6.0.1"
+image-size@2.0.3:
+  version "2.0.3"
+  resolved "https://registry.yarnpkg.com/image-size/-/image-size-2.0.3.tgz#5225a99e99851b1dfc5fdcd6fcdeeebeeaf6a6a4"
+  integrity sha512-9BJAtVCBth+76NwqnEfWr3PiRnYhbquk6K/USuQ1GQajz5NgLzO7tNsnoNjHfO7LuftgkBf+CCH6j28hjMbIYQ==
 
 immutable@~3.7.6:
   version "3.7.6"
@@ -17246,13 +17244,6 @@ querystring@0.2.0:
   version "0.2.0"
   resolved "https://registry.yarnpkg.com/querystring/-/querystring-0.2.0.tgz#b209849203bb25df820da756e747005878521620"
   integrity sha1-sgmEkgO7Jd+CDadW50cAWHhSFiA=
-
-queue@6.0.1:
-  version "6.0.1"
-  resolved "https://registry.yarnpkg.com/queue/-/queue-6.0.1.tgz#abd5a5b0376912f070a25729e0b6a7d565683791"
-  integrity sha512-AJBQabRCCNr9ANq8v77RJEv73DPbn55cdTb+Giq4X0AVnNVZvMHlYp7XlQiN+1npCZj1DuSmaA2hYVUUDgxFDg==
-  dependencies:
-    inherits "~2.0.3"
 
 ramda@~0.26.1:
   version "0.26.1"
